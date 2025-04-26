@@ -68,7 +68,7 @@ button:focus-visible {
 } */
 @import "tailwindcss";
 #image{
-  background: url("../../public/images/Siddharth_Photo.png");
+  background: url("../public/images/Siddharth_Photo.png");
   background-size:cover;
   
   
