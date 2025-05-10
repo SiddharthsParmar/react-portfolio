@@ -1,10 +1,12 @@
 const Navbar = () => {
     return (
-      <div className="h-14 w-full flex justify-between items-center px-4" id="navbar-container">
+      <div className="h-14 w-full flex justify-between items-center px-4 " id="navbar-container">
+
+
         
         {/* Left Side - Email + CV */}
         <div className="flex items-center gap-4">
-          <h2 className="text-gray-600 text-sm">siddharth.official.swe@gmail.com</h2>
+          <h2 className="text-gray-600 text-sm ">siddharth.official.swe@gmail.com</h2>
           <a 
             href="/siddharth_resume_final.pdf" 
             target="_blank" 
